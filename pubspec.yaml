@@ -1,6 +1,7 @@
 name: polyline_do
-description: A new Flutter package project.
-version: 0.0.1
+description: Polyline encoding algorithm for encoding and decoding a list of coordinates
+repository: https://github.com/Klerith/dart_polyline_do
+version: 0.1.0
 homepage:
 
 environment:

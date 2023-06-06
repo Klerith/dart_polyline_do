@@ -10,7 +10,7 @@ Polyline is a dart port of Google's Polyline Algorithm explained [here](https://
 
 ### A simple usage example
 
-Two named constructors are provided Polyline.Decode and Polyline.Encode.
+Two named constructors are provided Polyline.decode and Polyline.encode.
 
 Calling `Polyline.encode` will compute the __encodedString__ and set the passed in coordinates to __decodedCoords__ on the instance of Polyline so that each instance of Polyline has access to the correct encoded string and subsequent decoded coordinates. Likewise, calling `Polyline.decode` computes the list of coordinates from the encoded string and sets the passed in encoded string to the instance of Polyline.
 
